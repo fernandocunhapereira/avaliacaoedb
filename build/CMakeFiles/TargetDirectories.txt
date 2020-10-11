@@ -1,0 +1,3 @@
+/home/fernando/Desktop/EDB1/2020.6/avaliacao1/build/CMakeFiles/rebuild_cache.dir
+/home/fernando/Desktop/EDB1/2020.6/avaliacao1/build/CMakeFiles/prog.dir
+/home/fernando/Desktop/EDB1/2020.6/avaliacao1/build/CMakeFiles/edit_cache.dir

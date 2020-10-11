@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/prog.dir/src/prog.cpp.o -o prog 
