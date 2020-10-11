@@ -13,7 +13,7 @@ int main(int argc, char const *argv[]){
 
 	Concurso vestibular;
 	vestibular.setQuantidade(1000);
-	vestibular.setContador(560);
+	vestibular.setContador(560); //APAGAR ESSE METODO, USANDO SÓ PARA TESTE
 	std::cout<<vestibular.getContador()<<std::endl;
 	vestibular.addCandidato(teste);
 

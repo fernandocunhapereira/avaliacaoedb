@@ -15,3 +15,7 @@ void Candidato::setNome(std::string nome){
 void Candidato::setResposta(char x, int y){
 	this->respostas[y]=x;
 }
+
+void Candidato::setNota(){
+
+}

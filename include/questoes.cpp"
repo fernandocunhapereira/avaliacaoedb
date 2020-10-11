@@ -1,0 +1,9 @@
+#include "questoes.hpp"
+
+void Questoes::setAcertos(int i){
+	this->acertos[i]=acertos[i]+1
+}
+
+void Questoes::setBrancos(int i){
+	this->brancos[i]=brancos[i]+1;
+}
