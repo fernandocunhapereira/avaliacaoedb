@@ -6,4 +6,6 @@ CMakeFiles/prog.dir/src/prog.cpp.o
  ../include/candidato.hpp
  ../include/concurso.cpp
  ../include/concurso.hpp
+ ../include/questoes.cpp
+ ../include/questoes.hpp
  /home/fernando/Desktop/EDB1/2020.6/avaliacao1/src/prog.cpp

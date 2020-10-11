@@ -11,7 +11,8 @@ public:
 	void setNome(std::string nome);
 	char getResposta(int x);
 	void setResposta(char x, int y);
-	void setNota();
+	void setNota(char gabarito[10]);
+	int getNota();
 };
 
 #endif

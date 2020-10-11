@@ -5,5 +5,7 @@ CMakeFiles/prog.dir/src/prog.cpp.o: ../include/candidato.cpp
 CMakeFiles/prog.dir/src/prog.cpp.o: ../include/candidato.hpp
 CMakeFiles/prog.dir/src/prog.cpp.o: ../include/concurso.cpp
 CMakeFiles/prog.dir/src/prog.cpp.o: ../include/concurso.hpp
+CMakeFiles/prog.dir/src/prog.cpp.o: ../include/questoes.cpp
+CMakeFiles/prog.dir/src/prog.cpp.o: ../include/questoes.hpp
 CMakeFiles/prog.dir/src/prog.cpp.o: ../src/prog.cpp
 

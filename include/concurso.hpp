@@ -13,7 +13,7 @@ public:
 	~Concurso();
 	void setQuantidade(long int quantidade);
 	void addCandidato(Candidato candidato);
-	void setContador(long int x);
+	void setContador(long int x);//APAGAR ESSE METODO, USANDO SÓ PARA TESTE
 	long int getContador();
 	
 };

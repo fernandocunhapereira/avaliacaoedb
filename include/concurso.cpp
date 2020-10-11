@@ -1,7 +1,8 @@
 #include "concurso.hpp"
 
 Concurso::Concurso(){
-
+	this->contador=0;
+	this->quantidade=0;
 }
 
 Concurso::~Concurso(){
@@ -13,7 +14,7 @@ void Concurso::setQuantidade(long int quantidade){
 	this->lista = new Candidato[quantidade];
 }
 
-void Concurso::setContador(long int x){
+void Concurso::setContador(long int x){//APAGAR ESSE METODO, USANDO SÓ PARA TESTE
 	this->contador=x;
 }
 

@@ -9,6 +9,8 @@
 ../include/candidato.cpp
 candidato.hpp
 ../include/candidato.hpp
+questoes.hpp
+../include/questoes.hpp
 
 ../include/candidato.hpp
 
@@ -20,6 +22,12 @@ concurso.hpp
 candidato.hpp
 ../include/candidato.hpp
 
+../include/questoes.cpp
+questoes.hpp
+../include/questoes.hpp
+
+../include/questoes.hpp
+
 /home/fernando/Desktop/EDB1/2020.6/avaliacao1/src/prog.cpp
 iostream
 -
@@ -27,4 +35,6 @@ candidato.cpp
 /home/fernando/Desktop/EDB1/2020.6/avaliacao1/src/candidato.cpp
 concurso.cpp
 /home/fernando/Desktop/EDB1/2020.6/avaliacao1/src/concurso.cpp
+questoes.cpp
+/home/fernando/Desktop/EDB1/2020.6/avaliacao1/src/questoes.cpp
 

@@ -3,11 +3,11 @@
 
 struct Questoes{
 private:
-	long int acertos[10];
-	long int brancos[10];
+	long int acertos[10]={0,0,0,0,0,0,0,0,0,0};
+	int numeroQuestoes[10]={1,2,3,4,5,6,7,8,9,10};
 public:
 	void setAcertos(int i);
-	void setBrancos(int i);
+	void imprimeAcertos();
 };
 
 #endif
